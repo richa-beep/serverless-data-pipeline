@@ -44,3 +44,52 @@ sls plugin install -n serverless-python-requirements
 # Install serverless dotenv plugin
 sudo npm i -D serverless-dotenv-plugin
 ```
+
+# heading1
+## heading2
+##### heading5
+
+_this is iltalic_
+*thsdcdv*
+
+\**strong**
+
+~~strikethrough~~
+
+---
+___
+
+>this is a quote
+
+[this is a link](www.google.com "google")
+
+* item1
+* item2
+    * item 1
+* item 2
+
+1. iten1
+1. item2
+1. dfe
+
+<!-- inline describition -->
+
+![makedown](https://markdown-here.com/img/icon256.png)
+
+```
+npm install
+
+```
+```bash
+nm
+
+```
+* [X] TASK1
+* [x] task1
+* [ ]  task2
+
+
+
+
+
+
