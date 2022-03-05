@@ -1,0 +1,14 @@
+{
+    "Records": [
+        {
+            "s3": {
+                "bucket": {
+                    "name": "jr-t7"
+                },
+                "object": {
+                    "key": "csv/world_cup.csv"
+                }
+            }
+        }
+    ]
+}

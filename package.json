@@ -1,0 +1,27 @@
+{
+  "name": "my-data-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "serverless-prune-plugin": "^2.0.1",
+    "serverless-python-requirements": "^5.3.1"
+  },
+  "devDependencies": {
+    "serverless-dotenv-plugin": "^3.12.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richa-beep/serverless-data-pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richa-beep/serverless-data-pipeline/issues"
+  },
+  "homepage": "https://github.com/richa-beep/serverless-data-pipeline#readme"
+}
