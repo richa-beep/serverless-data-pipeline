@@ -8,7 +8,7 @@ package:
 	sls package --stage ${ENVIRONMENT} --aws-profile ${AWS_PROFILE}
 
 test:
-	serverless invoke --function dataPipeline --stage dev --path event/data_pipeline.json --aws-profile default
+	serverless invoke --function dataPipeline --stage dev --path event/data_pipeline.json --aws-profile ${AWS_PROFILE}
 
 remove:
 	sls remove --aws-profile ${AWS_PROFILE}
